@@ -1,5 +1,5 @@
-# scikit-learn-regressao
-Projeto 2 - Regressão usando Scikit Learn
+# Projeto 2 - Modelos de regressão com Scikit Learn.ipynb
+
 # Motivação:
 
 O campo da ciência de dados é impulsionado pela necessidade de resolver problemas do mundo real. Um dos desafios comuns enfrentados é a modelagem de problemas como regressões, onde o objetivo é prever números reais ou variáveis contínuas. Este projeto visa proporcionar uma introdução ao mundo da aprendizagem de máquina, abordando técnicas como separação de conjuntos de dados, avaliação de métricas, uso de validação cruzada e, por fim, criação e comparação de modelos preditivos utilizando a biblioteca Scikit-learn.
