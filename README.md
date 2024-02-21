@@ -1,4 +1,5 @@
 # Projeto 2 - Modelos de regressão com Scikit Learn.ipynb
+Link dos dados em csv: https://github.com/stedy/Machine-Learning-with-R-datasets
 
 # Motivação:
 
